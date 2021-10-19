@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abril_fatface</item>
+        <item>@font/arbutus_slab</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/coiny</item>
+        <item>@font/diplomata_sc</item>
+        <item>@font/emblema_one</item>
+        <item>@font/fascinate_inline</item>
+        <item>@font/stalinist_one</item>
+    </array>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dumb Charades Guess The Movie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="team_A_name">TEAM A</string>
+    <string name="team_B_name">TEAM B</string>
+    <string name="team_a">Team A :</string>
+    <string name="team_b">Team B :</string>
+    <string name="_text">END</string>
+    <string name="correct_text">CORRECT</string>
+    <string name="skip_button">SKIP</string>
+    <string name="title_team_a">TEAM A</string>
+    <string name="title_team_b">TEAM B</string>
+    <string name="play_again_button">PLAY AGAIN</string>
+    <string name="dumb_charades_game">DUMB CHARADES GAME</string>
+</resources>
