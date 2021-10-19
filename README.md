@@ -14,12 +14,12 @@ I have used best practices like ViewModel and LiveData in this app.
 
 SCREENSHOTS:
 
-![IMG_20211020_003423](https://user-images.githubusercontent.com/72871335/137975463-db6fd84b-abef-4978-851b-a2a569f98b63.jpg)
+![IMG_20211020_003423](https://user-images.githubusercontent.com/72871335/137977610-86ce24cf-f53d-4515-8ef5-fb6a964fd599.jpg)
 
-![IMG_20211020_003446](https://user-images.githubusercontent.com/72871335/137975496-881a3347-e766-4fec-b670-9104a3e4f9ea.jpg)
+![IMG_20211020_003446](https://user-images.githubusercontent.com/72871335/137977621-1cd86373-8078-452a-9e14-6e8656e896be.jpg)
 
-![IMG_20211017_162845](https://user-images.githubusercontent.com/72871335/137975511-74f7dc26-95b9-43ad-9d17-e361ec328965.jpg)
+![IMG_20211017_162845](https://user-images.githubusercontent.com/72871335/137977639-76780c73-724e-42c8-ae6c-a519f0f23db5.jpg)
 
-![IMG_20211020_003531](https://user-images.githubusercontent.com/72871335/137975520-6055602e-d5e8-4f5f-a1b8-b1e9e850982d.jpg)
+![IMG_20211020_003531](https://user-images.githubusercontent.com/72871335/137977644-afc23ccb-e1e0-47a6-80a7-129bfd987958.jpg)
 
-![IMG_20211020_003607](https://user-images.githubusercontent.com/72871335/137975539-635007a0-2849-430c-92dc-4586b81b6adc.jpg)
+![IMG_20211020_003607](https://user-images.githubusercontent.com/72871335/137977648-69251f49-18ec-4396-bdd4-f06239e98599.jpg)
